@@ -5,8 +5,9 @@
 #include "controller.h"
 #include "controller_pid.h"
 #include "controller_mellinger.h"
-#include "controller_rwik.h"
 #include "controller_indi.h"
+#include "controller_rwik.h"
+
 
 #define DEFAULT_CONTROLLER ControllerTypePID
 static ControllerType currentController = ControllerTypeAny;

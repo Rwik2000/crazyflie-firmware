@@ -21,7 +21,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  *
- * controller_rwik.h - Mellinger Controller Interface
+ * controller_rwik.h - Rwik Controller Interface
  */
 #ifndef __CONTROLLER_RWIK_H__
 #define __CONTROLLER_RWIK_H__
