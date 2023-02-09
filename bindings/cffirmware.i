@@ -19,6 +19,7 @@
 #include "num.h"
 #include "controller_mellinger.h"
 #include "controller_brescianini.h"
+#include "controller_rwik.h"
 #include "power_distribution.h"
 %}
 
@@ -30,6 +31,7 @@
 %include "controller_pid.h"
 %include "imu_types.h"
 %include "controller_mellinger.h"
+%include "controller_rwik.h"
 %include "controller_brescianini.h"
 %include "power_distribution.h"
 
